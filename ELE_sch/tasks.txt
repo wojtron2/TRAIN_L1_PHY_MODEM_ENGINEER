@@ -1,0 +1,11 @@
+tasks:
+design input circuit schematics
+
+consider and design laser current source
+
+
+first tests:
+
+check laser and input circuit bandwidth and frequency with oscilloscope
+
+in order to drive and test it write app to generate stable cycle clock generator signal

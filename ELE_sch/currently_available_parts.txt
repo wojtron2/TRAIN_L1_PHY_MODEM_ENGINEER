@@ -1,0 +1,13 @@
+optical input
+
+MCP606
+BPW34S
+
+
+optical output
+
+common laser module
+(consider current source design)
+
+
+
